@@ -5,7 +5,9 @@
 1. 把整個資料夾載下來
 2. 點擊 `Leason 1.exe`
 
-![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png)
+<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png" width="500"  />
+
+<!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png) -->
 
 ### 方塊移動/旋轉
 
@@ -20,7 +22,9 @@
 
 - Q ⇒ 方塊回歸畫面正中間
 
-![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Back.gif)
+<!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Back.gif) -->
+
+<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Back.gif" width="500"  />
 
 ### 變色
 
@@ -29,10 +33,14 @@
 - B ⇒ 變成藍色
 - Y ⇒ 變成黃色
 
-![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Color.gif)
+<!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Color.gif) -->
+
+<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Color.gif" width="500"  />
 
 ### 方塊的消失與重現
 - Tab ⇒ 方塊消失
 - Tab ⇒ 方塊出現
 
-![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Disappear.gif)
+<!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Disappear.gif) -->
+
+<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Disappear.gif" width="500"  />

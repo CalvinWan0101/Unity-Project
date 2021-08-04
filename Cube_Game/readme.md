@@ -7,7 +7,7 @@
 
 ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide2.0.png)
 
-### 方塊移動/旋轉
+### 方塊移動
 
 - W A S D ↑ ↓ ⇒ 平行移動
 - → ← ⇒ 以中心為軸自轉
@@ -15,6 +15,12 @@
 <!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Move.gif) -->
 
 <img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Move.gif" width="500"  />
+
+### 方塊自轉
+
+- → ← ⇒ 以中心為軸自轉
+
+<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Turn.gif" width="500"  />
 
 ### 方塊回歸
 

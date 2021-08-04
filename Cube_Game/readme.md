@@ -7,7 +7,7 @@
 
 <img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png" width="500"  />
 
-<!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png) -->
+![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png)
 
 ### 方塊移動/旋轉
 

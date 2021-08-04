@@ -8,7 +8,6 @@
 ### 方塊移動
 
 - W A S D ↑ ↓ ⇒ 平行移動
-- → ← ⇒ 以中心為軸自轉
 
 <!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Move.gif) -->
 

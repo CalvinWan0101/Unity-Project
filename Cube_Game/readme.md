@@ -5,9 +5,9 @@
 1. 把整個資料夾載下來
 2. 點擊 `Leason 1.exe`
 
-<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png" width="500"  />
+<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide2.0.png" width="500"  />
 
-![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide.png)
+![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide2.0.png)
 
 ### 方塊移動/旋轉
 

@@ -13,3 +13,7 @@
 ### Vtuber(面部追蹤)
 
 [Vtuber](https://github.com/CalvinWan0101/Unity-Project/tree/main/Vtuber)
+
+- 根據輸入聲音大小自動調整嘴巴開合程度
+- 根據臉的朝向去改變角色臉的方向
+- Q W E R T Y 都有相對應的動作

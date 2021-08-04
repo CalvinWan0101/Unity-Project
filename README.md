@@ -2,7 +2,7 @@
 
 ### Cube Game(方塊游戲)
 
-<img align="middle" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/tree/main/Cube_Game" width="560"  />
+<img align="middle" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Summary.gif" width="560"  />
 
 [Cube Game](https://github.com/CalvinWan0101/Unity-Project/tree/main/Cube_Game)
 

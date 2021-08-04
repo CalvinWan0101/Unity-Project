@@ -3,7 +3,7 @@
 ### 游玩説明
 
 1. 把整個資料夾載下來
-2. 點擊 `Leason 1.exe`
+2. 點擊 `Leason1.exe`
 
 ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Guide2.0.png)
 

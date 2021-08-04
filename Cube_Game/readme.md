@@ -12,7 +12,9 @@
 - W A S D ↑ ↓ ⇒ 平行移動
 - → ← ⇒ 以中心為軸自轉
 
-![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Move.gif)
+<!-- ![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Move.gif) -->
+
+<img align="center" alt="GIF" src="https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Move.gif" width="500"  />
 
 ### 方塊回歸
 

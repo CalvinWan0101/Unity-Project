@@ -14,6 +14,8 @@
 
 - Q ⇒ 方塊回歸畫面正中間
 
+![](https://github.com/CalvinWan0101/Unity-Project/blob/main/Cube_Game/GIF/Back.gif)
+
 ### 變色
 
 - R ⇒ 變成紅色
